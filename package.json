@@ -1,0 +1,15 @@
+{
+  "name": "boorish-goal-crash-5ish8",
+  "productName": "boorish-goal-crash-5ish8",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Admin",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^24.1.0"
+  }
+}
